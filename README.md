@@ -1,4 +1,4 @@
-# Mass Shootings in the United States: Trends & Associated Factors
+# Mass Shootings in US: Trends & Associated Factors
 
 > A data-driven analysis of mass shootings in the U.S., integrating multiple socio-economic datasets to examine long-term trends and associated factors.
 
