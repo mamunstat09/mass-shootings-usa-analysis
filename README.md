@@ -54,7 +54,8 @@ The analysis combines multiple datasets, including:
 - Jordan Leh  
 - Jordan Wood  
 
-Department of Computer Science 
+Department of Computer Science
+
 Central Michigan University
 
 Focus: Statistical modeling, machine learning, and applied data analysis
