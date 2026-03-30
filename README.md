@@ -50,14 +50,14 @@ The analysis combines multiple datasets, including:
 - Some variables serve as proxy indicators
 
 ## 👩‍💻 Authors
-- Mahmudul Hasan Mamun  
+- Mahmudul Hasan Mamun (PhD Candidate in Statistics & Analytics)  
 - Jordan Leh  
 - Jordan Wood  
 
-PhD Candidate in Statistics & Analytics (Mamun)  
 Central Michigan University  
+Department of Computer Science  
 
-Focus: Statistical modeling, data science, machine learning, and applied data analysis
+Focus: Statistical modeling, machine learning, and applied data analysis
 
 ## 📎 Note
 This project was completed as part of a graduate-level course and is intended for academic and analytical purposes.
