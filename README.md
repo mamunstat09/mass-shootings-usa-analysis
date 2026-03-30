@@ -49,10 +49,15 @@ The analysis combines multiple datasets, including:
 - Data quality varies across sources
 - Some variables serve as proxy indicators
 
-## 👩‍💻 Author
-Mamun  
-PhD Candidate in Statistics & Analytics  
-Focus: Statistical modeling, machine learning, and applied data analysis
+## 👩‍💻 Authors
+- Mahmudul Hasan Mamun  
+- Jordan Leh  
+- Jordan Wood  
+
+PhD Candidate in Statistics & Analytics (Mamun)  
+Central Michigan University  
+
+Focus: Statistical modeling, data science, machine learning, and applied data analysis
 
 ## 📎 Note
 This project was completed as part of a graduate-level course and is intended for academic and analytical purposes.
