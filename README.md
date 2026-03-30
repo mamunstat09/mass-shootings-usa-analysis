@@ -51,9 +51,9 @@ The analysis combines multiple datasets, including:
 
 ## 👩‍💻 Authors
 
-- **Mahmudul Hasan Mamun** (PhD Candidate in Statistics & Analytics)  
-- **Jordan Leh**  
-- **Jordan Wood**  
+- Mahmudul Hasan Mamun (PhD Candidate in Statistics & Analytics)  
+- Jordan Leh  
+- Jordan Wood  
 
 Department of Computer Science  
 Central Michigan University  
