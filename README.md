@@ -61,4 +61,4 @@ Central Michigan University
 **Focus:** Statistical modeling, machine learning, and applied data analysis
 
 ## 📎 Note
-This project was completed as part of a graduate-level course and is intended for academic and analytical purposes.
+This project was completed as part of a graduate-level course at Central Michigan University in 2023 and is intended for academic and analytical purposes.
